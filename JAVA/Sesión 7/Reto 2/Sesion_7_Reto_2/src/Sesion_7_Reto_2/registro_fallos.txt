@@ -1,0 +1,1 @@
+Se produjo un error al leer el archivo 'errores.logs': C:\Users\Praxis\Desktop\JAVA\Sesión 7\Reto 2\Sesion_7_Reto_2\src\Sesion_7_Reto_2\errores.logs

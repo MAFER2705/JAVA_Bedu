@@ -1,0 +1,1 @@
+Se produjo un error al leer el archivo 'errores.logs': src\Sesion_7_Reto_2\errores.logs
